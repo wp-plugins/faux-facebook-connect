@@ -1,5 +1,5 @@
 === Faux Facebook Connect ===
-Contributors: tott
+Contributors: tott, automattic
 Tags: facebook, fbconnect, facebook connect, comments, sso, single sign on
 Requires at least: 2.7
 Tested up to: 2.9
@@ -10,7 +10,6 @@ Faux Facebook Connect is a basic integration to allow Facebook users to comment 
 == Description ==
 
 Faux Facebook Connect is a basic integration to allow Facebook users to comment on a WordPress blog. It provides single sign on, and avatars. It is tuned for WordPress MU usage as it does not perform any database alterations or adds any users and is mainly a javascript integration. It requires a <a href="http://www.facebook.com/developers/">Facebook API Key</a> for use. Thanks go to Beau Lebens for writing a <a href="http://dentedreality.com.au/2008/12/implementing-facebook-connect-on-wordpress-in-reality/">good introduction</a> and Adam Hupp for his inspireing <a href="http://wordpress.org/extend/plugins/wp-facebookconnect/">WP-Facebookconnect plugin</a>
-This is the long description.  No limit, and you can use Markdown (as well as in the following sections).
 
 == Installation ==
 
